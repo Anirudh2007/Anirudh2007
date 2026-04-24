@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=CS+Student;Cybersecurity+Enthusiast;AI+Builder;Always+Learning" alt="Typing SVG" /></a>
 </h1>
 
-# 👋 Anirudh | CS Student × Cybersecurity × AI Builder
+# Anirudh here 👋
 
 <div align="center">
 
