@@ -1,70 +1,89 @@
 # Anirudh
 
-B.Tech student in Information Technology & Mathematical Innovations  
-Cluster Innovation Centre, University of Delhi
+**B.Tech, Information Technology & Mathematical Innovations** | Cluster Innovation Centre, University of Delhi
 
-I’m focused on Artificial Intelligence, Machine Learning, Cybersecurity, Software Engineering and Linux.  
-Currently working on project related to **An AI tool that analyzes a student's previous-year question papers and syllabus to generate a ranked, marks-weighted study guide — with grounded, source-cited answers to PYQs, syllabus gap questions and a final cheat sheet with important topic.**
+I build **production-grade ML systems** that solve real problems. Currently developing an AI tool that generates personalized study guides from exam papers using NLP and LLM.
 
-## Current focus
+---
 
-- Strengthening my foundation in AI/ML and software engineering
-- Contributing to open source where I can add real value
-- Improving existing projects and building new ones
-- Learning tools and workflows used in practical development
-- Exploring Linux, systems and security-oriented technologies
+## 🎯 Focus
 
-## Core Skills
+- **AI/ML:** Bayesian methods, interpretable classifiers, data pipelines
+- **Software Engineering:** Testing, documentation, production code
+- **Open Source:** Building collaborative habits for GSoC readiness
 
-**Programming Languages**  
-Python · C++
+---
 
-**AI / ML**  
-NumPy · Pandas · scikit-learn
-
-**Development Tools**  
-Git · Linux · Bash
-
-**Currently Learning**  
-PyTorch · Docker · System Design
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Diabetes Risk Prediction](https://github.com/Anirudh2007/Diabetes_Risk_Model)
-Predicts diabetes risk using machine learning techniques on structured health data.
+*Bayesian classifier for diabetes risk from clinical biomarkers*
 
-**Tech:** Python, Pandas, scikit-learn  
-**Why it matters:** Shows practical ML workflow, data preprocessing, and model evaluation for a meaningful real-world problem.
+[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Code quality](https://img.shields.io/badge/code_quality-production-brightgreen)]()
+
+- Implemented QDA from scratch using Gaussian Bayes' theorem
+- 79% accuracy with comprehensive evaluation metrics  
+- Production code: modular structure, data validation, Flask web UI + CLI
+- **Insights:** Shows ML fundamentals, mathematical rigor, and engineering practices
+
+**[→ View on GitHub](https://github.com/Anirudh2007/Diabetes_Risk_Model)**
+
+---
 
 ### [Drug Dosage Simulator](https://github.com/Anirudh2007/Drug_Dosage_Simulator)
-Simulates dosage-related outcomes based on defined inputs and constraints.
+*Pharmacokinetic simulation for time-dependent drug concentration*
 
-**Tech:** Python, simulation logic, data handling  
-**Why it matters:** Demonstrates structured problem solving and careful logic for a domain-sensitive use case.
+[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org)
 
-## Future Project
+- Models drug elimination and accumulation over time
+- Configurable dosing schedules and pharmacokinetic parameters
+- Visualizations and exportable results
+- **Insights:** Demonstrates simulation logic and domain-specific problem solving
+
+**[→ View on GitHub](https://github.com/Anirudh2007/Drug_Dosage_Simulator)**
+
+---
+
+## 🏗️ In Development
+
 ### Study Guide Generator
-Analyzes previous-year question papers and syllabus to generate ranked, marks-weighted study guides.
+*AI-powered study tool analyzing exam papers and syllabi*
 
-**Features:**
-- Extracts questions from PYQs, ranked by frequency and marks weight
-- Generates grounded answers with source citations
-- Identifies syllabus gaps and creates targeted questions
-- Produces final cheat sheet with important topics
+- Extracts and ranks questions by frequency and marks weight
+- Generates source-cited answers using LLM + RAG
+- Identifies syllabus gaps and creates targeted practice questions
+- Produces final cheat sheet with topic prioritization
 
-**Tech:** Python, NLP, RAG, LLM  
-**Why it matters:** Solves a real problem for students and demonstrates full ML pipeline from data extraction to UI.
+**Tech:** Python, NLP, RAG, LLM | *Status: ~50% — launching Q3 2026*
 
-## Other Projects & Experiments
+---
 
-- [Image Processor](https://github.com/Anirudh2007/Image_processor) — Image processing basics
-- [Library Management System](https://github.com/Anirudh2007/Library-Management-System) — C++ data structures practice
+## 🛠️ Tech Stack
 
-*Archived: Expense Tracker, C Programming Course, Gimp Mirror*
+**Languages:** Python · C++  
+**ML/Data:** NumPy · Pandas · scikit-learn  
+**Tools:** Git · Linux · Bash · VS Code  
+**Learning:** PyTorch · Docker · System Design
 
+---
 
-## Contact
+## 🤝 Open Source & GSoC
 
-- **LinkedIn:** [linkedin.com/in/anirudhjain07](https://linkedin.com/in/anirudhjain07)
+**GSoC 2026 Applicant:** Submitted proposal for Better math expressions UI/UX . While not accepted, the experience strengthened my understanding of open-source collaboration, proposal writing and community engagement. Currently applying to GSoC 2027 with improved fundamentals.
+
+Working on:
+- [ ] Contributing to at least 3 established open-source projects
+- [ ] Building production grade ML tools to help out with real life problems and improving quality of life
+
+**Resources:**
+- 📖 [GSoC 2026 Proposal & Learnings](https://github.com/Anirudh2007/Anirudh2007/issues/1)
+
+---
+
+## 📬 Contact
+
 - **Email:** toanirudhjain2007@gmail.com
+- **LinkedIn:** [linkedin.com/in/anirudhjain07](https://linkedin.com/in/anirudhjain07)
 - **GitHub:** [@Anirudh2007](https://github.com/Anirudh2007)
